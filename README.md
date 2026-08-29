@@ -60,7 +60,7 @@ Comprehensive technical specification for enterprise voice/chat agent system. Co
 
 ---
 
-### 5. **Radian Arc** — Infrastructure Dashboard
+### 5. **AI Vendor** — Infrastructure Dashboard
 **Real-time global datacenter monitoring for GPU/compute operations**
 
 Interactive SVG-based dashboard for 30+ distributed datacenter sites. Displays live capacity, power consumption, GPU/CPU load, and risk assessment with filtering, detail panels, and site management.
@@ -70,7 +70,7 @@ Interactive SVG-based dashboard for 30+ distributed datacenter sites. Displays l
 - **Key Features:** World map visualization, real-time metrics, risk gauges, site management (add/edit/duplicate), zoom controls, offline support, 30+ site dataset
 - **Best For:** DevOps engineers, infrastructure teams, platform architects
 
-[View Project](./projects/radian-arc/) | [Live Demo](./projects/radian-arc/radian-arc.html)
+[View Project](./projects/AiVendor/) | [Live Demo](./projects/AiVendor.html)
 
 ---
 
@@ -79,10 +79,10 @@ Interactive SVG-based dashboard for 30+ distributed datacenter sites. Displays l
 | Skill | Projects |
 |-------|----------|
 | **AI Infrastructure** | GPU Sizer, GPU Cost Model, Voice Agent Blueprint |
-| **System Design** | Voice Agent Blueprint, Radian Arc |
+| **System Design** | Voice Agent Blueprint, AiVendor |
 | **Cost Modeling** | GPU Sizer, GPU Cost Model, Voice Agent Blueprint |
-| **PWA Development** | GPU Cost Model, Outreach Studio, Radian Arc |
-| **Data Visualization** | Radian Arc, GPU Sizer |
+| **PWA Development** | GPU Cost Model, Outreach Studio, AiVendor |
+| **Data Visualization** | AiVendor , GPU Sizer |
 | **B2B/SaaS** | Outreach Studio |
 | **Technical Writing** | Voice Agent Blueprint, GPU Cost Model |
 | **Full-Stack** | All projects (single-file or minimal backend) |
@@ -148,7 +148,7 @@ See individual project READMEs for detailed diagrams.
 - **GPU Cost Model:** [README](./projects/gpu-cost-model/README.md) | [Architecture](./projects/gpu-cost-model/ARCHITECTURE.md)
 - **Outreach Studio:** [README](./projects/outreach-studio/README.md) | [Architecture](./projects/outreach-studio/ARCHITECTURE.md)
 - **Voice Agent Blueprint:** [README](./projects/voice-agent-blueprint/README.md) | [Specification](./projects/voice-agent-blueprint/SPECIFICATION.md)
-- **Radian Arc:** [README](./projects/radian-arc/README.md) | [Architecture](./projects/radian-arc/ARCHITECTURE.md)
+- **AiVendor:** [README](./projects/AiVendor/README.md) | [Architecture](./projects/AiVendor/ARCHITECTURE.md)
 
 ---
 
