@@ -1,4 +1,4 @@
-# Radian Arc — Global Infrastructure Map
+# AiVendor — Global Infrastructure Map
 
 **Real-time interactive dashboard for monitoring distributed GPU/compute datacenter operations globally.**
 
@@ -13,7 +13,7 @@ Managing a global distributed GPU infrastructure requires real-time visibility i
 - **Risk assessment** (healthy, warning, critical status)
 - **Regional balancing** (load distribution across continents)
 
-Radian Arc provides an interactive **world map view** of your entire infrastructure footprint with drill-down detail panels, filtering, and site management.
+AiVendor provides an interactive **world map view** of your entire infrastructure footprint with drill-down detail panels, filtering, and site management.
 
 ## Key Features
 
@@ -41,7 +41,7 @@ Radian Arc provides an interactive **world map view** of your entire infrastruct
 
 1. **Open in browser:**
    ```bash
-   open Radian_Arc_-_Global_Infrastructure_Map.html
+   open AiVendor_-_Global_Infrastructure_Map.html
    ```
    Or serve via HTTP:
    ```bash
@@ -97,7 +97,7 @@ Radian Arc provides an interactive **world map view** of your entire infrastruct
 
 ```
 ┌─────────────────────────────────────────────┐
-│      RADIAN ARC INFRASTRUCTURE DASHBOARD   │
+│      AiVendor INFRASTRUCTURE DASHBOARD   │
 ├─────────────────────────────────────────────┤
 │                                             │
 │  ┌─────────────────────────────────────┐   │
@@ -288,7 +288,7 @@ All test sites are clearly marked and can be filtered out.
 
 ## Files
 
-- `Radian_Arc_-_Global_Infrastructure_Map.html` — Complete single-file PWA application
+- `AiVendor_-_Global_Infrastructure_Map.html` — Complete single-file PWA application
 
 ## Installation
 
